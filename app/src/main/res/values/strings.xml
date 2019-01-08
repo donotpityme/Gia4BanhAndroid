@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Gia4Banh</string>
+    <string-array name="product_aray">
+        <item>- Chọn mẫu xe -</item>
+        <item>AUDI A3</item>
+        <item>Ford Everest 2018</item>
+        <item>Ford Ecosport 2018</item>
+        <item>Ford Ranger</item>
+        <item>FORD FIESTA</item>
+        <item>FORD FOCUS</item>
+        <item>FORD ESCAPE 2018</item>
+        <item>MAZDA 2</item>
+        <item>MAZDA 3 2018</item>
+        <item>MAZDA 6</item>
+        <item>MAZDA MX5</item>
+        <item>MAZDA CX3 2018</item>
+        <item>MAZDA CX5 2017-2018</item>
+        <item>MAZDA CX9</item>
+        <item>TOYOTA WIGO 2018</item>
+        <item>TOYOTA VIOS 2018-2019</item>
+        <item>TOYOTA ALTIS 2018</item>
+        <item>TOYOTA CAMRY 2018</item>
+        <item>KIA MORNING 2018</item>
+        <item>KIA RIO</item>
+        <item>KIA CERATO ( K3 ) 2018</item>
+        <item>KIA RONDO</item>
+        <item>KIA QUORIS (K9)</item>
+        <item>MITSUBISHI MIRAGE 2018</item>
+        <item>MITSUBISHI ATTRAGE 2018</item>
+        <item>MITSUBISHI XPANDER 2018</item>
+        <item>MITSUBISHI OUTLANDER 2018</item>
+        <item>MITSUBISHI OUTLANDER SPORT</item>
+        <item>HYUNDAI GRAND I10 HATCHBACK 2018</item>
+        <item>HYUNDAI GRAND I10 SEDAN 2018</item>
+        <item>HYUNDAI I20 ACTIVE</item>
+        <item>HYUNDAI ACCENT 2018</item>
+        <item>MERCEDES C CLASS</item>
+        <item>MERCEDES E CLASS</item>
+        <item>MERCEDES S CLASS</item>
+        <item>MERCEDES A CLASS</item>
+        <item>CHEVROLET SPARK 2018</item>
+        <item>CHEVROLET AVEO 2018</item>
+        <item>CHEVROLET CRUZE 2018</item>
+        <item>AUDI A3</item>
+    </string-array>
+    <string-array name="place_aray">
+        <item>- Chọn tỉnh, thành phố -</item>
+        <item>Hà Nội</item>
+        <item>TP Hồ Chí Minh</item>
+        <item>An Giang</item>
+        <item>Bà Rịa - Vũng Tàu</item>
+        <item>Bắc Giang</item>
+        <item>Bắc Kạn</item>
+        <item>Bạc Liêu</item>
+        <item>Bắc Ninh</item>
+        <item>Bến Tre</item>
+        <item>Bình Định</item>
+        <item>Bình Dương</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cao Bằng</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Điện Biên</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Gia Lai</item>
+        <item>Hà Giang</item>
+        <item>Hà Nam</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hậu Giang</item>
+        <item>Hòa Bình</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lâm Đồng</item>
+        <item>Lạng Sơn</item>
+        <item>Lào Cai</item>
+        <item>Long An</item>
+        <item>Nam Định</item>
+        <item>Nghệ An</item>
+        <item>Ninh Bình</item>
+        <item>Ninh Thuận</item>
+        <item>Phú Thọ</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Ninh</item>
+        <item>Quảng Trị</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thừa Thiên Huế</item>
+        <item>Tiền Giang</item>
+        <item>Trà Vinh</item>
+        <item>Tuyên Quang</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Phúc</item>
+        <item>Yên Bái</item>
+        <item>Phú Yên</item>
+        <item>Cần Thơ</item>
+        <item>Đà Nẵng</item>
+        <item>Hải Phòng</item>
+    </string-array>
+</resources>
